@@ -46,7 +46,8 @@ The goal of this course is to _extend_ students’ knowledge in **systems progra
 
 ---
 ## Status
-In progress; tasks, related documents, and solutions will be added almost weekly until the end of the 2024 Spring Semester, and past documents will be updated if necessary.
+~~In progress; tasks, related documents, and solutions will be added almost weekly until the end of the 2024 Spring Semester, and past documents will be updated if necessary.~~  
+Suspended indefinitely
 
 ---
 ## Inspiration
@@ -60,8 +61,8 @@ I share documents publicly. The contents of the SE 375 projects that will be giv
 
 ---
 ## Contributors
-- for theory: SE 375 Course Lecturer, [Asst. Prof. Alper DEMİR](https://people.ieu.edu.tr/en/alperdemir/main)  
-- for lab: SE 375 Course Assistant, [Res. Asst. Çınar GEDİZLİOĞLU](https://people.ieu.edu.tr/en/cinargedizlioglu/main)  
+- for theory: SE 375 Course Lecturer, [Alper DEMİR](https://people.ieu.edu.tr/en/alperdemir/main)  
+- for lab: SE 375 Course Assistant, [Çınar GEDİZLİOĞLU](https://people.ieu.edu.tr/en/cinargedizlioglu/main)  
 - Ejder Aysun <ejderaysunn@gmail.com>  
 - Core Java, Volume I Fundamentals, 8/e, Horstmann & Cornell, 2008 , Prentice Hall , ISBN10: 0132354764,  ISBN13: 978-0132354769  
 - Big Java, Horstmann, 4th edition, 2010, Wiley, ISBN13: 978-0470553091  
